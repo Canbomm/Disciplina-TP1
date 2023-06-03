@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1675280715 source:c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\dominios.cpp
+	"dominios.h"
+
+1675280693 c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\dominios.h
+	<string>
+	<stdexcept>
+	<iostream>
+
+1675280745 source:c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\entidades.cpp
+	"entidades.h"
+
+1675280726 c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\entidades.h
+	"dominios.h"
+
+1675280778 source:c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\main.cpp
+
+1675280862 source:c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\controladorasapresentacao.cpp
+	"controladorasApresentacao.h"
+
+1675280857 c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\controladorasapresentacao.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+
+1675280802 c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1675280834 source:c:\users\canbo\documents\trabalhos\tp1\trabalho_2_2_tentativa\controladorasservico.cpp
+
+1675293171 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\controladorasapresentacao.cpp
+	"controladorasApresentacao.h"
+
+1675292719 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\controladorasapresentacao.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+
+1675292710 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1675280693 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\dominios.h
+	<string>
+	<stdexcept>
+	<iostream>
+
+1675280726 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\entidades.h
+	"dominios.h"
+
+1675295442 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\controladorasservico.cpp
+	"controladorasServico.h"
+	"containers.h"
+
+1675280715 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\dominios.cpp
+	"dominios.h"
+
+1675280745 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\entidades.cpp
+	"entidades.h"
+
+1675296087 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\main.cpp
+	"dominios.h"
+	"entidades.h"
+	"controladorasApresentacao.h"
+	"controladorasServico.h"
+
+1675291907 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\controladorasservico.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+
+1675369324 c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\containers.h
+	"entidades.h"
+	<map>
+	<list>
+
+1675363996 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2 tentativa 2\containers.cpp
+	"containers.h"
+
+1675392758 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\containers.cpp
+	"containers.h"
+
+1675382479 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\containers.h
+	"entidades.h"
+	<map>
+	<list>
+
+1675280726 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\entidades.h
+	"dominios.h"
+
+1675384350 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\dominios.h
+	<string>
+	<stdexcept>
+	<iostream>
+
+1675392211 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\controladorasapresentacao.cpp
+	"controladorasApresentacao.h"
+	<conio.h>
+
+1675386869 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\controladorasapresentacao.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+
+1675391021 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1675391292 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\controladorasservico.cpp
+	"controladorasServico.h"
+
+1675391006 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\controladorasservico.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+
+1675384468 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\dominios.cpp
+	"dominios.h"
+
+1675280745 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\entidades.cpp
+	"entidades.h"
+
+1675375673 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\main.cpp
+	"controladorasApresentacao.h"
+	"controladorasServico.h"
+	"builders.h"
+
+1675379517 source:c:\users\canbo\documents\trabalhos\tp1\trabalho 2\builders.cpp
+	"builders.h"
+
+1675375115 c:\users\canbo\documents\trabalhos\tp1\trabalho 2\builders.h
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"controladorasServico.h"
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1670378237 source:/home/canbom/Desktop/Trabalho/dominios.cpp
+	"dominios.h"
+	"funcoes_auxiliares.h"
+
+1670373702 /home/canbom/Desktop/Trabalho/dominios.h
+	<string>
+	<stdexcept>
+	<iostream>
+	<list>
+
+1670380223 source:/home/canbom/Desktop/Trabalho/main.cpp
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1670288137 /home/canbom/Desktop/Trabalho/dominios.cpp
+	<iostream>
+	"dominios.h"
+
+1670350022 source:/home/canbom/Desktop/Trabalho/funcoes_auxiliares.cpp
+	<iostream>
+	<list>
+
+1670350022 /home/canbom/Desktop/Trabalho/funcoes_auxiliares.cpp
+	<iostream>
+	<list>
+
+1670378091 /home/canbom/Desktop/Trabalho/funcoes_auxiliares.h
+	<list>
+
+1670374643 source:/home/canbom/Desktop/Trabalho/entidades.cpp
+	"entidades.h"
+
+1670374508 /home/canbom/Desktop/Trabalho/entidades.h
+	"dominios.h"
+
+1670380250 source:/home/canbom/Desktop/Trabalho/testes.cpp
+	"testes.h"
+
+1670380287 /home/canbom/Desktop/Trabalho/testes.h
+	"dominios.h"
+	"entidades.h"
+	<string>
+
