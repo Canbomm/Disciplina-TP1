@@ -1,4 +1,4 @@
-### ED
+### TP1
 
 Códigos desenvolvidos na disciplina de TP1 (Técnicas de Programação 1) no meu terceiro semestre da UnB.
 
